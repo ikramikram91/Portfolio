@@ -1,0 +1,13 @@
+h1 {
+    text-align: center;
+}
+
+#titre2 {
+    margin-top: 5%;
+    text-align: center;
+}
+
+.dark-mode {
+    background-color: #3A3938;
+    color: white;
+}
